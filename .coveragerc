@@ -1,0 +1,7 @@
+# .coveragerc to control coverage.py
+
+
+[run]
+omit =
+	test_*
+    /usr/local/lib/python3.*/*
